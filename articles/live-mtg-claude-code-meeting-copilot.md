@@ -3,7 +3,7 @@ title: "Claude Codeのサブスクを「会議コパイロット」にするOSS�
 emoji: "🎙️"
 type: "tech"
 topics: ["claudecode", "ai", "whisper", "oss", "議事録"]
-published: false
+published: true
 ---
 
 ![LiveMTG — 会議が、その場で前に進む。](/images/hero.jpg)
