@@ -3,7 +3,7 @@ title: "Claude Codeのサブスクを「会議コパイロット」にするOSS�
 emoji: "🎙️"
 type: "tech"
 topics: ["claudecode", "ai", "whisper", "oss", "議事録"]
-published: true
+published: false
 ---
 
 ![LiveMTG — 会議が、その場で前に進む。](/images/hero.jpg)
@@ -26,7 +26,7 @@ live-mtg
 
 LiveMTGはAPIキーを一切要求しません。AI処理はすべて、あなたのマシンにインストール済みの `claude` / `codex` CLIを使い捨てで呼び出すことで動きます。月額のSaaS料金も、従量課金の設定も、社内へのAPIキー配布もなし。**Claude Codeが動くマシンなら、追加コストゼロで会議コパイロットが動きます。**
 
-音声も同じ思想で、文字起こしはローカルのWhisper（Apple SiliconならMLX、Intel Mac/Windowsはwhisper.cpp）。**会議の音声・文字起こし・議事データは1バイトもクラウドに出ません。** 顧客との商談や人事面談のような、外部SaaSに出しにくい会議でも使えます。
+音声も同じ思想で、文字起こしはローカルのWhisper（Apple SiliconならMLX、Intel Mac/Windowsはwhisper.cpp）。**音声データは1バイトもクラウドに出ません。** AI解析に送られるのは文字起こしの差分テキストだけで、送り先はあなた自身のClaude/Codexアカウント（第三者の議事録SaaSに会議データを預ける方式ではありません）。顧客との商談や人事面談のような、外部SaaSに出しにくい会議でも使いやすい構成です。
 
 # できること
 
