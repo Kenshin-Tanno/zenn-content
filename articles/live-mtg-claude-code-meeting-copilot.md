@@ -15,7 +15,8 @@ npm install -g live-mtg@beta
 live-mtg
 ```
 
-<!-- TODO: ここにデモGIF（録音開始→議事とマップがリアルタイムに育つ30秒） -->
+![デモ：会議名を入れて録音を始めると、議事・次に聞く質問・マップがリアルタイムに育っていく](https://raw.githubusercontent.com/Sponsaru/live-mtg/main/docs/demo.gif)
+*録音開始から議事が育つ様子（UIは実物・会議内容はサンプル）*
 
 # 何が新しいのか：APIキーが要らない
 
