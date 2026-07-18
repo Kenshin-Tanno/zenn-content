@@ -6,6 +6,8 @@ topics: ["claudecode", "ai", "whisper", "oss", "議事録"]
 published: false
 ---
 
+![LiveMTG — 会議が、その場で前に進む。](/images/hero.jpg)
+
 会議を録音するだけで、**話しているそばから議事録・次に聞くべき質問・マインドマップが育っていく**ローカル実行ツール「LiveMTG」を作りました。無料のOSS（MIT）です。
 
 ```bash
